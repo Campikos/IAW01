@@ -1,0 +1,22 @@
+baseURL = "http://localhost:1313/"
+languageCode = "en-us"
+title = "Restaurante Campesinos"
+theme = "ananke"
+
+[menu]
+
+  [[menu.main]]
+    name = "Sobre el restaurant"
+    url = "/about/"
+    weight = -110
+
+  [[menu.main]]
+    name = "Carta i images"
+    url = "/carta/"
+    weight = -100
+
+  [[menu.main]]
+    name = "On ens trobem?"
+    url = "https://goo.gl/maps/goBCRHXBVefCmWBZ6"
+    weight = -100
+

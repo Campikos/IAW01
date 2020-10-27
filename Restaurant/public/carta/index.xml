@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Carta on Restaurante Campesinos</title>
+    <link>http://localhost:1313/carta/</link>
+    <description>Recent content in Carta on Restaurante Campesinos</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 22 Sep 2020 11:44:26 +0200</lastBuildDate><atom:link href="http://localhost:1313/carta/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Postres</title>
+      <link>http://localhost:1313/carta/postres/</link>
+      <pubDate>Tue, 22 Sep 2020 11:44:26 +0200</pubDate>
+      
+      <guid>http://localhost:1313/carta/postres/</guid>
+      <description>Els postres del Restaurant Campesinos son molt famosos, coneguts pels seus tocs especials i la seua bona elaboracio i pinta.</description>
+    </item>
+    
+    <item>
+      <title>Peixos</title>
+      <link>http://localhost:1313/carta/peixos/</link>
+      <pubDate>Tue, 22 Sep 2020 11:44:21 +0200</pubDate>
+      
+      <guid>http://localhost:1313/carta/peixos/</guid>
+      <description>Peixos de primera cal·litat, els millors proveedors ens els porten frescs i bons.</description>
+    </item>
+    
+    <item>
+      <title>Entrants</title>
+      <link>http://localhost:1313/carta/entrants/</link>
+      <pubDate>Tue, 22 Sep 2020 11:44:16 +0200</pubDate>
+      
+      <guid>http://localhost:1313/carta/entrants/</guid>
+      <description>El Restaurant Campesinos es conegut també per els seus entrants, llamatius y amb molta variació.</description>
+    </item>
+    
+    <item>
+      <title>Carns</title>
+      <link>http://localhost:1313/carta/carns/</link>
+      <pubDate>Tue, 22 Sep 2020 11:44:11 +0200</pubDate>
+      
+      <guid>http://localhost:1313/carta/carns/</guid>
+      <description>En Restaurant Campesinos es talla coxinillo, entrecot, solomillo, ternera i tots els tipus de carn que t&amp;rsquo;imagines!</description>
+    </item>
+    
+    <item>
+      <title>Arrossos</title>
+      <link>http://localhost:1313/carta/arrosos/</link>
+      <pubDate>Tue, 22 Sep 2020 11:43:55 +0200</pubDate>
+      
+      <guid>http://localhost:1313/carta/arrosos/</guid>
+      <description>Tenim mes de 20 tipus de arrossos, desde arroç amb curry, 4 delicies, paella, arroç al forn, arroç a banda&amp;hellip;</description>
+    </item>
+    
+  </channel>
+</rss>
